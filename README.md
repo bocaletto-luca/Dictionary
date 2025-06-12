@@ -9,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-Free%20Open%20Data-9cf?style=flat-square&logo=book)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Dictionary/)
+
 ## 📌 Overview  
 
 **Dictionary WebApp** is a modern, interactive **word lookup tool** that provides **accurate definitions, synonyms, translations, and more** using **free open-data APIs**.  
